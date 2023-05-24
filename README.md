@@ -1,6 +1,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tepid-neitzen&theme=blue_green)
 
 
+![DSC00818](https://github.com/Tepid-neitzen/Tepid-neitzen/assets/129894851/24404db8-a534-4d5c-b277-83e5783be969)
+
 <!---
 Tepid-neitzen/Tepid-neitzen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
