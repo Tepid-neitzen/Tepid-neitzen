@@ -1,4 +1,4 @@
-<h1 align="center">AHOY TRAVELER :</h1>
+<h1 align="center">欢迎 :</h1>
 
 <p align="center">
   <img src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tepid-neitzen&theme=blue_green">
