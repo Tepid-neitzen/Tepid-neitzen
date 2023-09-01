@@ -25,7 +25,7 @@
 <a href="https://github.com/TTaksheel" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/132825646?v=4" alt="TTK" width="40" height="40"/> </a>
 <a href="https://github.com/BSW-G-D-iph6" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/132499310?v=4" alt="BSW" width="40" height="40"/> </a>
 <a href="https://github.com/GDSimpson3" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/103830594?v=4" alt="gdsimpson" width="40" height="40"/> </a>
-<a href="https://github.com/TTaksheel" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/132825646?v=4" alt="TTK" width="40" height="40"/> </a>
+
 
 <!-- ![DSC00818](https://github.com/Tepid-neitzen/Tepid-neitzen/assets/129894851/24404db8-a534-4d5c-b277-83e5783be969) -->
 
