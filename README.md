@@ -4,6 +4,17 @@
   <img src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tepid-neitzen&theme=blue_green">
 </p>
 
+
+
+<h3 align="center">关于我 :</h1>
+
+<p align="center">
+我目前正在学习各种不同的devops技术，例如具有Helm chart集成的K8s，Docker容器系统以及Gcp上Github上的Ci/CD管道和Jenkins。 我还精通使用React等技术的web开发。JS和NEXT。Js的,
+</p>
+
+
+
+
 <p align="center">
   <img src= "https://media3.giphy.com/media/4an7xphvXiQOUT6dsH/giphy.gif">
 </p>
